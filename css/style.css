@@ -1,0 +1,42 @@
+head{
+    color: aqua;
+}
+
+body{
+    color: blueviolet;
+    font-family: sans-serif;
+    background-position: center;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: azure;
+}
+
+
+
+h2{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.container{
+    padding-right: 10;
+    padding-left: 10;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+main{
+    display: grid;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+    margin-bottom: 20px;    
+}
+
+.box {
+    width: 200px;
+}
+
